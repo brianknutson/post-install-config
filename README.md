@@ -42,7 +42,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/OBXCjxJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 1 - First, we will configure differenet roles. Roles are used for making different grouping permissions to give to certain people. To achieve this, go to the "Admin Panel" then "Agents" then "Roles".  
+  <p>
+<img src="https://i.imgur.com/BVofBUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<p>
+<img src="https://i.imgur.com/E49EJvf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<p>
+<img src="https://i.imgur.com/Jzr0mJ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<p>
+<img src="https://i.imgur.com/RRARmUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+Step 1 - First, we need to configure differenet roles. Roles are used for making different grouping permissions to give to certain people. To achieve this, go to the "Admin Panel" then "Agents" then "Roles". Next click on "Add New Role". Name this new role as "Supreme Admin". Then go to the "Permissions" and under "Tickets", "Task", and "Knowledgebase" check everything. Afterwards, click "Add Role". The "Supreme Admin" role should show up in the "Roles" tab. 
 </p>
 <br />
 
