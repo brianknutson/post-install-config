@@ -61,7 +61,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/RRARmUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<p>
 Step 1 - First, we need to configure differenet roles. Roles are used for making different grouping permissions to give to certain people. To achieve this, go to the "Admin Panel" then "Agents" then "Roles". Next click on "Add New Role". Name this new role as "Supreme Admin". Then go to the "Permissions" and under "Tickets", "Task", and "Knowledgebase" check everything. Afterwards, click "Add Role". The "Supreme Admin" role should show up in the "Roles" tab. 
 </p>
 <br />
@@ -104,15 +103,25 @@ Step 4 - Now let's allow anyone to create tickets, which will allow unregistered
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ECeBXEL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>
+<img src="https://i.imgur.com/cmpEnbW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/T213Tpn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/jHwatLo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 5 - Let's add some agents/workers. Go to "Admin Panel" then "Agents". Next click on "Add New Agent". In this tutorial, two agents will be created. First, Jane Doe whose "Primary Department" will be "SysAdmin" and "Role" will be "Supreme Admin". She will also be in the "Online Banking Team". Once the information has been filled out, scroll down and click "Create". The next agent will be John Doe whose "Primary Department" will be "Support" and "Role" will be "View Only". 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ECeBXEL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
