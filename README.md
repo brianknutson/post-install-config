@@ -78,7 +78,7 @@ Step 1 - First, we need to configure differenet roles. Roles are used for making
 <img src="https://i.imgur.com/j5BtGXI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step - 2 Now let's configure the departments, which will affect ticket visibility. This will let you allow departments have different levels of access to the tickets. To configure the departments, go to the "Admin Panel" then "Agents" then "Departments". After getting to the "Departments" page, click on "Add New Department". In this tutorial, a top level department called "SysAdmins". None of the other settings will be altered. Finally, scroll down and click on "Create Dept".  
+Step 2 - Now let's configure the departments, which will affect ticket visibility. This will let you allow departments have different levels of access to the tickets. To configure the departments, go to the "Admin Panel" then "Agents" then "Departments". After getting to the "Departments" page, click on "Add New Department". In this tutorial, a top level department called "SysAdmins". None of the other settings will be altered. Finally, scroll down and click on "Create Dept".  
 Admin Panel -> Agents -> Departments
 </p>
 <br />
@@ -91,15 +91,15 @@ Admin Panel -> Agents -> Departments
 <img src="https://i.imgur.com/wFETi6T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step - 3 Now let's configure teams. Teams allow people from different departments to have the same level of access to a particular thing such as a ticket. To configure teams, go to the "Admin Panel" then "Agents" then "Teams". Next click on "Add New Team". In this tutorial, the name of the team will be "Online Banking". Finally click on "Create Team". 
+Step 3 - Now let's configure teams. Teams allow people from different departments to have the same level of access to a particular thing such as a ticket. To configure teams, go to the "Admin Panel" then "Agents" then "Teams". Next click on "Add New Team". In this tutorial, the name of the team will be "Online Banking". Finally click on "Create Team". 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UF7ZIUD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 4 - Now let's allow anyone to create tickets, which will allow unregistered users to be able to create tickets. Therefore, it will allow your end users to be able to create tickets without having an account. To accomplish this, go to the "Admin Panel" then "Settings" then "Users". Make sure the "Registration Required" setting is uncheck.  
 </p>
 <br />
 
