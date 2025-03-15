@@ -121,10 +121,31 @@ Step 5 - Let's add some agents/workers. Go to "Admin Panel" then "Agents". Next 
 <br />
 
 <p>
-<img src="https://i.imgur.com/ECeBXEL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2ppTspZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>
+<img src="https://i.imgur.com/TCLt2jV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 6 - Now let's add an user/customer. Go to "Agent Panel" then "Users" then click on "Add New". In this tutorial, the user will be Karen Doe. Once the info is filled, click on "Add User". 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/XH0Gb70.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/3JVn8He.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/3RRJlxo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>  
+Step 7 - Next let's configure service level agreement (SLA), which is a contract between the service provider and a customer that defines the level of service expected from the provider such as quality standards and response time. However, in this case, it affects which tickets should be prioritize first and how much time you have to finish a ticket. To configure SLA, go to "Admin Panel" then "Manage" then "SLA". Next click on "Add New SLA Plan". In this tutorial, three SLAs will be created. First will be "Sev-A" with a "Grace Period" of 1 hour with a schedule of 24/7. This means the ticket will be considered overdue in a hour even outside of under normal business hours. Once the information is filled, click on "Add Plan". The next SLA is "Sev-B" with a "Grace Period" of 4 hours with a schedule of 24/7. The final SLA is "Sev-C" with a "Grace Period" of 8 hours with normal business hours. 
 </p>
 <br />
 
