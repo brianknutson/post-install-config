@@ -150,9 +150,18 @@ Step 7 - Next let's configure service level agreement (SLA), which is a contract
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wD7BYPN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>
+<img src="https://i.imgur.com/EW9ulTE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/Is0KOwv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+Step 8 - Finally, let's configure some help topics, which helps explain what issue users may be facing when creating a ticket. To make help topics go to "Admin Panel" then "Manage" then "Help Topics". Next click on "Add New Help Topic". Let's create five different help topics. The first four will be "Business Critical Outage", "Personal Computer Issues", "Password Reset", and "Other". All four will have will have the "Parent Topic" as "Report a Problem". Once your done setting up one of the help topics, click on "Add Topic" to add it to the list of help topics. The fifth topic will be called "Equipment Request" with the "Parent Topic" as "General Inquiry".   
 </p>
 <br />
