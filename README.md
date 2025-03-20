@@ -63,8 +63,7 @@ Step 1 - First, we need to configure different roles. Roles are used to make dif
 </p>
 <br />
 
-Step 2 - Now let's configure the departments, which will affect ticket visibility. This will let you allow departments to have different levels of access to the tickets. To configure the departments, go to the "Admin Panel" then "Agents" then "Departments". After getting to the "Departments" page, click on "Add New Department". In this tutorial, a top-level department called "SysAdmins". None of the other settings will be altered. Finally, scroll down and click on "Create Dept".  
-Admin Panel -> Agents -> Departments
+Step 2 - Now let's configure the departments, which will affect ticket visibility. This will let you allow departments to have different levels of access to the tickets. To configure the departments, go to the "Admin Panel" then "Agents" then "Departments". After getting to the "Departments" page, click on "Add New Department". In this tutorial, a new top-level department called "SysAdmins" will be created. None of the other settings will be altered. Finally, scroll down and click on "Create Dept".  
 <p>
 <img src="https://i.imgur.com/DVQ45gL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
