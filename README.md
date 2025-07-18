@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This demonstration shows how I did post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-Step 1 - First, we need to configure different roles. Roles are used to make different grouping permissions to give to certain people. To achieve this, go to the "Admin Panel" then "Agents" then "Roles". Next, click on "Add New Role". Name this new role as "Supreme Admin". Then go to "Permissions" and under "Tickets", "Task", and "Knowledgebase" check everything. Afterward, click "Add Role". The "Supreme Admin" role should show up in the "Roles" tab.
+Step 1 - First, I needed to configure different roles. Roles are used to make different grouping permissions to give to certain people. To achieve this, I went to the "Admin Panel" then "Agents" then "Roles". Next, I clicked on "Add New Role". I named this new role as "Supreme Admin". Then I went to "Permissions" and under "Tickets", "Task", and "Knowledgebase" check everything. Afterward, I clicked "Add Role". The "Supreme Admin" role showed up in the "Roles" tab.
 <p>
 <img src="https://i.imgur.com/QFcxUw1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
