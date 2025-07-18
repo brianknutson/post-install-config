@@ -29,41 +29,22 @@ This demonstration shows how I did post-install configuration of the open-source
 <h2>Configuration Steps</h2>
 
 Step 1 - First, I needed to configure different roles. Roles are used to make different grouping permissions to give to certain people. To achieve this, I went to the "Admin Panel" then "Agents" then "Roles". Next, I clicked on "Add New Role". I named this new role as "Supreme Admin". Then I went to "Permissions" and under "Tickets", "Task", and "Knowledgebase" check everything. Afterward, I clicked "Add Role". The "Supreme Admin" role showed up in the "Roles" tab.
-<p>
-<img src="https://i.imgur.com/QFcxUw1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/j9tnCDh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/OBXCjxJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/BVofBUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<p>
-<img src="https://i.imgur.com/E49EJvf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<p>
-<img src="https://i.imgur.com/Jzr0mJ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<p>
-<img src="https://i.imgur.com/RRARmUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p> 
-</p>
-<br />
 
-Step 2 - Now let's configure the departments, which will affect ticket visibility. This will let you allow departments to have different levels of access to the tickets. To configure the departments, go to the "Admin Panel" then "Agents" then "Departments". After getting to the "Departments" page, click on "Add New Department". In this tutorial, a new top-level department called "SysAdmins" will be created. None of the other settings will be altered. Finally, scroll down and click on "Create Dept".  
+![image alt](https://github.com/brianknutson/post-install-config/blob/f78dcb09213c664b1e414b3ed9e989efc67db292/1.1.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/f78dcb09213c664b1e414b3ed9e989efc67db292/1.2.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/f78dcb09213c664b1e414b3ed9e989efc67db292/1.3.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/f78dcb09213c664b1e414b3ed9e989efc67db292/1.4.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/f78dcb09213c664b1e414b3ed9e989efc67db292/1.5.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/f78dcb09213c664b1e414b3ed9e989efc67db292/1.6.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/f78dcb09213c664b1e414b3ed9e989efc67db292/1.7.PNG)
+
+Step 2 - I configured the departments next, which will affect ticket visibility. This will let me allow departments to have different levels of access to the tickets. To configured the departments, I went to the "Admin Panel" then "Agents" then "Departments". After getting to the "Departments" page, I clicked on "Add New Department". I created a new top-level department called "SysAdmins". None of the other settings was altered. Finally, I scrolled down and clicked on "Create Dept".  
 <p>
 <img src="https://i.imgur.com/DVQ45gL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
