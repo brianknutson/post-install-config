@@ -44,21 +44,16 @@ Step 1 - First, I needed to configure different roles. Roles are used to make di
 
 ![image alt](https://github.com/brianknutson/post-install-config/blob/f78dcb09213c664b1e414b3ed9e989efc67db292/1.7.PNG)
 
-Step 2 - I configured the departments next, which will affect ticket visibility. This will let me allow departments to have different levels of access to the tickets. To configured the departments, I went to the "Admin Panel" then "Agents" then "Departments". After getting to the "Departments" page, I clicked on "Add New Department". I created a new top-level department called "SysAdmins". None of the other settings was altered. Finally, I scrolled down and clicked on "Create Dept".  
-<p>
-<img src="https://i.imgur.com/DVQ45gL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/mrckxNx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/j5BtGXI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-</p>
-<br />
+Step 2 - I configured the departments next, which will affect ticket visibility. This will let me allow departments to have different levels of access to the tickets. To configured the departments, I went to the "Admin Panel" then "Agents" then "Departments". After getting to the "Departments" page, I clicked on "Add New Department". I created a new top-level department called "SysAdmins". None of the other settings was altered. Finally, I scrolled down and clicked on "Create Dept". Now the "SysAdmins" department shows up at the "Departments" page. 
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/835a49d4d2d79c058be4d9b8d7894b7e5e0f4e93/2.1.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/835a49d4d2d79c058be4d9b8d7894b7e5e0f4e93/2.2.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/835a49d4d2d79c058be4d9b8d7894b7e5e0f4e93/2.3.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/835a49d4d2d79c058be4d9b8d7894b7e5e0f4e93/2.4.PNG)
+
 
 Step 3 - Now let's configure teams. Teams allow people from different departments to have the same level of access to a particular thing such as a ticket. To configure teams, go to the "Admin Panel" then "Agents" then "Teams". Next, click on "Add New Team". In this tutorial, the name of the team will be "Online Banking". Finally, click on "Create Team". 
 <p>
