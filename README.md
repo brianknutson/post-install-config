@@ -55,17 +55,11 @@ Step 2 - I configured the departments next, which will affect ticket visibility.
 ![image alt](https://github.com/brianknutson/post-install-config/blob/835a49d4d2d79c058be4d9b8d7894b7e5e0f4e93/2.4.PNG)
 
 
-Step 3 - Now let's configure teams. Teams allow people from different departments to have the same level of access to a particular thing such as a ticket. To configure teams, go to the "Admin Panel" then "Agents" then "Teams". Next, click on "Add New Team". In this tutorial, the name of the team will be "Online Banking". Finally, click on "Create Team". 
-<p>
-<img src="https://i.imgur.com/NfqyEBi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/wFETi6T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-</p>
-<br />
+Step 3 - Next, I configured teams. Teams allow people from different departments to have the same level of access to a particular thing such as a ticket. To configure teams, I went to the "Admin Panel" then "Agents" then "Teams". Next, I clicked on "Add New Team". In this demonstration, the name of the team will be "Online Banking". Finally, I clicked on "Create Team". 
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/c7faf5c83031f36ec5bb9770bcae609b5ac9b791/3.1.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/c7faf5c83031f36ec5bb9770bcae609b5ac9b791/3.2.PNG)
 
 Step 4 - Now let's allow anyone to create tickets, which will allow unregistered users to be able to create tickets. Therefore, it will allow your end users to be able to create tickets without having an account. To accomplish this, go to the "Admin Panel" then "Settings" then "Users". Make sure the "Registration Required" setting is unchecked.  
 <p>
