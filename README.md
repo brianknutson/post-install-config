@@ -61,43 +61,25 @@ Step 3 - Next, I configured teams. Teams allow people from different departments
 
 ![image alt](https://github.com/brianknutson/post-install-config/blob/c7faf5c83031f36ec5bb9770bcae609b5ac9b791/3.2.PNG)
 
-Step 4 - Now let's allow anyone to create tickets, which will allow unregistered users to be able to create tickets. Therefore, it will allow your end users to be able to create tickets without having an account. To accomplish this, go to the "Admin Panel" then "Settings" then "Users". Make sure the "Registration Required" setting is unchecked.  
-<p>
-<img src="https://i.imgur.com/UF7ZIUD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-</p>
-<br />
+Step 4 - I wanted to allow anyone to create tickets, which will allow unregistered users to be able to create tickets. Therefore, it will allow my end users to be able to create tickets without having an account. To accomplish this, I went to the "Admin Panel" then "Settings" then "Users". I made sure the "Registration Required" setting is unchecked.  
 
-Step 5 - Let's add some agents/workers. Go to "Admin Panel" then "Agents". Next, click on "Add New Agent". In this tutorial, two agents will be created. First, Jane Doe whose "Primary Department" will be "SysAdmin" and "Role" will be "Supreme Admin". She will also be in the "Online Banking Team". Once the information has been filled out, scroll down and click "Create". The next agent will be John Doe whose "Primary Department" will be "Support" and "Role" will be "View Only". 
-<p>
-<img src="https://i.imgur.com/ECeBXEL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/cmpEnbW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://i.imgur.com/T213Tpn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://i.imgur.com/jHwatLo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-</p>
-<br />
+![image alt](https://github.com/brianknutson/post-install-config/blob/77aef9b752da7d75e3911aac8ef013b81fb709f5/Capture.PNG)
 
-Step 6 - Now let's add a user/customer. Go to "Agent Panel" then "Users" then click on "Add New". In this tutorial, the user will be Karen Doe. Once the info is filled in, click on "Add User". 
-<p>
-<img src="https://i.imgur.com/2ppTspZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/TCLt2jV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-</p>
-<br />
+Step 5 - Next, I added some agents/workers. I went to "Admin Panel" then "Agents". Next, I clicked on "Add New Agent". In this demonstration, two agents were created. First, Jane Doe whose "Primary Department" was "SysAdmin" and "Role" was "Supreme Admin". She was also in the "Online Banking Team". Once the information has been filled out, I scrolled down and clicked "Create". The next agent was John Doe whose "Primary Department" was "Support" and "Role" was "View Only". 
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/6672acf6a38580d85630640bef58f9481726721a/3.51.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/6672acf6a38580d85630640bef58f9481726721a/3.52.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/6672acf6a38580d85630640bef58f9481726721a/3.53.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/6672acf6a38580d85630640bef58f9481726721a/3.54.PNG)
+
+Step 6 - I needed to add a user/customer. So I went to "Agent Panel" then "Users" then clicked on "Add New". In this demonstration, the user will be Karen Doe. Once the info was filled in, I clicked on "Add User". 
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/adb8a9b57955ac7a2a5ad3a842ee952b1f3c7c58/3.61.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/adb8a9b57955ac7a2a5ad3a842ee952b1f3c7c58/3.62.PNG)
 
 Step 7 - Next let's configure some service-level agreements (SLAs), which is a contract between the service provider and a customer that defines the level of service expected from the provider such as quality standards and response time. Therefore, it affects which tickets should be prioritized first and how much time you have to finish a ticket. To configure SLAs, go to "Admin Panel" then "Manage" then "SLA". Next, click on "Add New SLA Plan". In this tutorial, three SLAs will be created. First will be "Sev-A" with a "Grace Period" of 1 hour with a schedule of 24/7. This means the ticket will be considered overdue in an hour even outside of normal business hours. Once the information is filled in, click on "Add Plan". The next SLA is "Sev-B" with a "Grace Period" of 4 hours with a schedule of 24/7. The final SLA is "Sev-C" with a "Grace Period" of 8 hours with normal business hours. 
 <p>
