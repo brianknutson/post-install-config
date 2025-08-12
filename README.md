@@ -90,18 +90,9 @@ Step 7 - Next, I configured some service-level agreements (SLAs), which is a con
 ![image alt](https://github.com/brianknutson/post-install-config/blob/84f5f5ca628b21645dc99822d3de05f4eddd1f34/7.3.PNG)
 
 Step 8 - Finally, I configureed some help topics, which help explain what issue users may be facing when creating a ticket. To make help topics, I went to "Admin Panel" then "Manage" then "Help Topics". Next, I clicked on "Add New Help Topic". I created five different help topics. The first four was "Business Critical Outage", "Personal Computer Issues", "Password Reset", and "Other". All four had the "Parent Topic" as "Report a Problem". Once I was done setting up one of the help topics, I clicked on "Add Topic" to add it to the list of help topics. The fifth topic was called "Equipment Request" with the "Parent Topic" as "General Inquiry".   
-<p>
-<img src="https://i.imgur.com/wD7BYPN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/EW9ulTE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/Is0KOwv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-</p>
-<br />
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/658f955e78ec6293a69215458f329c386bb27cfc/8.1.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/658f955e78ec6293a69215458f329c386bb27cfc/8.2.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/658f955e78ec6293a69215458f329c386bb27cfc/8.3.PNG)
