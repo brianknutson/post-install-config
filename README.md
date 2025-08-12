@@ -81,24 +81,15 @@ Step 6 - I needed to add a user/customer. So I went to "Agent Panel" then "Users
 
 ![image alt](https://github.com/brianknutson/post-install-config/blob/adb8a9b57955ac7a2a5ad3a842ee952b1f3c7c58/3.62.PNG)
 
-Step 7 - Next let's configure some service-level agreements (SLAs), which is a contract between the service provider and a customer that defines the level of service expected from the provider such as quality standards and response time. Therefore, it affects which tickets should be prioritized first and how much time you have to finish a ticket. To configure SLAs, go to "Admin Panel" then "Manage" then "SLA". Next, click on "Add New SLA Plan". In this tutorial, three SLAs will be created. First will be "Sev-A" with a "Grace Period" of 1 hour with a schedule of 24/7. This means the ticket will be considered overdue in an hour even outside of normal business hours. Once the information is filled in, click on "Add Plan". The next SLA is "Sev-B" with a "Grace Period" of 4 hours with a schedule of 24/7. The final SLA is "Sev-C" with a "Grace Period" of 8 hours with normal business hours. 
-<p>
-<img src="https://i.imgur.com/XH0Gb70.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/3JVn8He.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://i.imgur.com/3RRJlxo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>  
-</p>
-<br />
+Step 7 - Next, I configured some service-level agreements (SLAs), which is a contract between the service provider and a customer that defines the level of service expected from the provider such as quality standards and response time. Therefore, it affects which tickets should be prioritized first and how much time you have to finish a ticket. To configured SLAs, I went to "Admin Panel" then "Manage" then "SLA". Next, I clicked on "Add New SLA Plan". In this demonstration, three SLAs was created. First was be "Sev-A" with a "Grace Period" of 1 hour with a schedule of 24/7. This means the ticket was to be considered overdue in an hour even outside of normal business hours. Once the information was filled in, I clicked on "Add Plan". The next SLA was "Sev-B" with a "Grace Period" of 4 hours with a schedule of 24/7. The final SLA was "Sev-C" with a "Grace Period" of 8 hours with normal business hours. 
 
-Step 8 - Finally, let's configure some help topics, which help explain what issue users may be facing when creating a ticket. To make help topics go to "Admin Panel" then "Manage" then "Help Topics". Next, click on "Add New Help Topic". Let's create five different help topics. The first four will be "Business Critical Outage", "Personal Computer Issues", "Password Reset", and "Other". All four will have will have the "Parent Topic" as "Report a Problem". Once you are done setting up one of the help topics, click on "Add Topic" to add it to the list of help topics. The fifth topic will be called "Equipment Request" with the "Parent Topic" as "General Inquiry".   
+![image alt](https://github.com/brianknutson/post-install-config/blob/84f5f5ca628b21645dc99822d3de05f4eddd1f34/7.1.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/84f5f5ca628b21645dc99822d3de05f4eddd1f34/7.2.PNG)
+
+![image alt](https://github.com/brianknutson/post-install-config/blob/84f5f5ca628b21645dc99822d3de05f4eddd1f34/7.3.PNG)
+
+Step 8 - Finally, I configureed some help topics, which help explain what issue users may be facing when creating a ticket. To make help topics, I went to "Admin Panel" then "Manage" then "Help Topics". Next, I clicked on "Add New Help Topic". I created five different help topics. The first four was "Business Critical Outage", "Personal Computer Issues", "Password Reset", and "Other". All four had the "Parent Topic" as "Report a Problem". Once I was done setting up one of the help topics, I clicked on "Add Topic" to add it to the list of help topics. The fifth topic was called "Equipment Request" with the "Parent Topic" as "General Inquiry".   
 <p>
 <img src="https://i.imgur.com/wD7BYPN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
